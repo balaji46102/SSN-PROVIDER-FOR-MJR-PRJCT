@@ -21,4 +21,6 @@ public class SsaWebRestController
 		return service.getCitizenInfo(req);
 	}
 
+      //new
+
 }
